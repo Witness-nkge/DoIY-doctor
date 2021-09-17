@@ -3,8 +3,11 @@ it this diydr version users are able to book appoinment with doctors through SMS
 
 # Features
 SendSms Intent
+
 Music player
+
 ScreenShot capture
+
 Banner Ads
 
 # Method 
