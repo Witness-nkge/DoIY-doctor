@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Practise">
         <activity android:name=".ThirdActivity"></activity>
+        <activity android:name=".VideoChatActivity"/>
         <activity android:name=".SecondActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
